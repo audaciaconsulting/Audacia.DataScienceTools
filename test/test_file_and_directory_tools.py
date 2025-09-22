@@ -1,5 +1,5 @@
 import pytest
-from src.file_and_directory_tools import windows_to_wsl_path
+from dstools.file_and_directory_tools import windows_to_wsl_path
 
 
 class TestFileAndDirectoryTools:
